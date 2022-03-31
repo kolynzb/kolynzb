@@ -8,7 +8,8 @@
 - 📫 How to reach me **collinsbenda360@gmail.com**
 
 - ⚡ Fun fact **My learning capacity has no bounds**
-
+### Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolynzb&layout=compact&theme=gotham&hide=jupyter%20notebook,c,scss&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
