@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kolynz_b" target="blank"><img src="https://img.shields.io/twitter/follow/kolynz_b?logo=twitter&style=for-the-badge" alt="kolynz_b" /></a> </p>
 
-- 💬 Ask me about **MERN ,python , java & design**
+- 💬 Ask me about **MERN ,python ,typescript & design**
 
 - 📫 How to reach me **collinsbenda360@gmail.com**
 
