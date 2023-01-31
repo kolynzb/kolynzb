@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atuhaire Collins</h1>
+<h1 align="center">Hi 👋, I'm Atuhaire Collins Benda</h1>
 <h3 align="center">I am a self taught software developer from Uganda</h3>
 
 <p align="left"> <a href="https://twitter.com/kolynz_b" target="blank"><img src="https://img.shields.io/twitter/follow/kolynz_b?logo=twitter&style=for-the-badge" alt="kolynz_b" /></a> </p>
