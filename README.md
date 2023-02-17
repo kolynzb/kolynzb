@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atuhaire Collins Benda</h1>
-<h3 align="center">Hey there! 👋 I'm a Self Taught Software developer and a software Swiss Army knife. I can handle anything from front-end design to back-end architecture, and everything in between. I love a good challenge and I'm always open to opportunities in any tech stack. When I'm not coding, you can find me exploring the great outdoors or practicing my guitar skills. Let's join forces and create something amazing!</h3>
+<p align="center">Hey there! 👋 I'm a Self Taught Software developer and a software Swiss Army knife. I can handle anything from front-end design to back-end architecture, and everything in between. I love a good challenge and I'm always open to opportunities in any tech stack. When I'm not coding, you can find me exploring the great outdoors or practicing my guitar skills. Let's join forces and create something amazing!</p>
 
 <p align="left"> <a href="https://twitter.com/kolynz_b" target="blank"><img src="https://img.shields.io/twitter/follow/kolynz_b?logo=twitter&style=for-the-badge" alt="kolynz_b" /></a> </p>
 
@@ -14,10 +14,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">
+<p align="center">
 Oh, and did I mention I can also juggle flaming torches? Well, maybe not the flaming torches part, but I'm always up for learning new skills!
 
-I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating with like-minded folks to build incredible things. So, let's join forces and create something amazing!"!</h3>
+I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating with like-minded folks to build incredible things. So, let's join forces and create something amazing!"!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
