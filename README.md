@@ -23,7 +23,7 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 <p align="left">
 <a href="https://dev.to/kolynzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kolynzb" height="30" width="40" /></a>
 <a href="https://twitter.com/kolynz_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolynz_b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atuhaire-collins-71a458218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atuhaire-collins-71a458218/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atuhairecollins/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atuhaire-collins-71a458218/" height="30" width="40" /></a>
 <a href="https://fb.com/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="a" height="30" width="40" /></a>
 <a href="https://instagram.com/ko.lynz_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ko.lynz_b" height="30" width="40" /></a>
 <a href="https://dribbble.com/kolynzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kolynzb" height="30" width="40" /></a>
@@ -34,10 +34,17 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 <a href="https://discord.gg/ko.lynz_b#3910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ko.lynz_b#3910" height="30" width="40" /></a>
 </p>
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&locale=en" alt="kolynzb" /></p>
+</details>
 
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,java,ts,nodejs,django,aws,azure,nextjs,pug,react,vue,flutter,ableton,bash,firebase,ai,py,ps,md,jest,mongodb,postgres,redis,rust,threejs,postman&perline=8)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,java,ts,nodejs,django,aws,azure,nextjs,pug,react,vue,flutter,ableton,bash,firebase,ai,py,ps,md,jest,mongodb,postgres,redis,rust,threejs,postman,figma&perline=12)](https://skillicons.dev)
+
+<br/>
 
 
