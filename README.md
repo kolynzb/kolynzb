@@ -40,20 +40,21 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 </p>
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary><h3 align="left">Github Stats ⚡</h3></summary>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&locale=en" alt="kolynzb" /></p>
 </details>
 
-
-<h3 align="left">Languages and Tools:</h3>
+<details>
+  <summary><h3 align="left">Languages and Tools ⚒️:</h3></summary>
 
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,java,ts,nodejs,django,aws,azure,nextjs,pug,react,vue,flutter,ableton,bash,firebase,ai,py,ps,md,jest,mongodb,postgres,redis,rust,threejs,postman,figma&perline=12)](https://skillicons.dev)
+</details>
 
 <br/>
 
 <details>
-  <summary>Now Playing 🎧</summary>
+  <summary><h3 align="left">Now Playing 🎧</h3></summary>
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z332qz23yt5ma5twvztrjvztgu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]()
   
