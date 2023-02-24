@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atuhaire Collins Benda</h1>
 
-<center>
-<img src="https://user-images.githubusercontent.com/45392987/219710714-ae326402-abb6-49b5-9db0-09a1f4c521a5.gif" alt="Ferdinand" width="120" align="center" style="display: flex; align-items:center; justify-content:center; width:100%; margin: 0 auto;" />
-</center>
+<figure style="display: flex; align-items:center; justify-content:center; width:100%; margin: 0 auto;" >
+<img src="https://user-images.githubusercontent.com/45392987/219710714-ae326402-abb6-49b5-9db0-09a1f4c521a5.gif" alt="Ferdinand" width="120"  />
+</figure>
 
 <p align="left"><i>Hey there! 👋 I'm a Self Taught Software developer and a software Swiss Army knife. I can handle anything from front-end design to back-end architecture, and everything in between. I love a good challenge and I'm always open to opportunities in any tech stack. When I'm not coding, you can find me exploring the great outdoors or practicing my guitar skills. Let's join forces and create something amazing!</i></p>
 
