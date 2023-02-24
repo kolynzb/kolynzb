@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kolynz_b" target="blank"><img src="https://img.shields.io/twitter/follow/kolynz_b?logo=twitter&style=for-the-badge" alt="kolynz_b" /></a> </p>
 
-- 💬 Ask me about **MERN ,python ,typescript & design**
+- 💬 Ask me about **python ,typescript & design**
 
 - 📫 How to reach me **collinsbenda360@gmail.com**
 
@@ -16,39 +16,32 @@
 
 <details>
   <summary>Most Used Languages⚡</summary>
-  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolynzb&layout=compact&theme=gotham&hide=jupyter%20notebook,c,scss&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
 </details>
 
-<p align="left">
+<p align="left"><i>
 Oh, and did I mention I can also juggle flaming torches? Well, maybe not the flaming torches part, but I'm always up for learning new skills!
-
-I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating with like-minded folks to build incredible things. So, let's join forces and create something amazing!"!</p>
-
+I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating with like-minded folks to build incredible things. So, let's join forces and create something amazing!"!
+</i>
+</p>
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&locale=en" alt="kolynzb" /></p>
 </details>
 
 <details>
   <summary>Languages and Tools ⚒️:</summary>
-
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,java,ts,nodejs,django,aws,azure,nextjs,pug,react,vue,flutter,ableton,bash,firebase,ai,py,ps,md,jest,mongodb,postgres,redis,rust,threejs,postman,figma&perline=12)](https://skillicons.dev)
 </details>
 
-<br/>
-
 <details>
   <summary>Now Playing 🎧</summary>
- 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z332qz23yt5ma5twvztrjvztgu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]()
-  
 </details>
 
-
-<h3 align="left">Connect with me:</h3>
+<details>
+  <summary>Connect with me: ✌🏿</summary>
 <p align="left">
 <a href="https://dev.to/kolynzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kolynzb" height="30" width="40" /></a>
 <a href="https://twitter.com/kolynz_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolynz_b" height="30" width="40" /></a>
@@ -62,3 +55,4 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 <a href="https://www.hackerrank.com/collinsbenda360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="collinsbenda360" height="30" width="40" /></a>
 <a href="https://discord.gg/ko.lynz_b#3910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ko.lynz_b#3910" height="30" width="40" /></a>
 </p>
+</details>
