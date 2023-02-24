@@ -16,6 +16,7 @@
 
 <details>
   <summary>Most Used Languages⚡</summary>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kolynzb&layout=compact&theme=gotham&hide=jupyter%20notebook,c,scss&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
 </details>
 
@@ -27,21 +28,27 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 
 <details>
   <summary>Github Stats ⚡</summary>
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&locale=en" alt="kolynzb" /></p>
 </details>
 
 <details>
   <summary>Languages and Tools ⚒️:</summary>
+  
 [![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,tailwind,java,ts,nodejs,django,aws,azure,nextjs,pug,react,vue,flutter,ableton,bash,firebase,ai,py,ps,md,jest,mongodb,postgres,redis,rust,threejs,postman,figma&perline=12)](https://skillicons.dev)
+  
 </details>
 
 <details>
   <summary>Now Playing 🎧</summary>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z332qz23yt5ma5twvztrjvztgu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]()
+  
 </details>
 
 <details>
   <summary>Connect with me: ✌🏿</summary>
+  
 <p align="left">
 <a href="https://dev.to/kolynzb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kolynzb" height="30" width="40" /></a>
 <a href="https://twitter.com/kolynz_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kolynz_b" height="30" width="40" /></a>
