@@ -55,8 +55,7 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 <details>
   <summary>Now Playing 🎧</summary>
  
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31z332qz23yt5ma5twvztrjvztgu)
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z332qz23yt5ma5twvztrjvztgu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
 </details>
 
