@@ -2,8 +2,11 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=kolynzb&data=followers,repositories,stars,commits&theme=nautilus">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Atuhaire+Collins+Benda)
+<p align="center">
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=25&pause=3000&color=FFFFFF&center=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Atuhaire+Collins+Benda)
+
+</p>
 <hr />
 
 <figure style="display: flex; align-items:center; justify-content:center; width:100%; margin: 0 auto;"  align="center">
