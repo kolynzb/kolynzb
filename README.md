@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=kolynzb&data=followers,repositories,stars,commits">
+</p>
+
 <h1 align="center">Hi 👋, I'm Atuhaire Collins Benda</h1>
 
 <figure style="display: flex; align-items:center; justify-content:center; width:100%; margin: 0 auto;" >
@@ -29,7 +33,13 @@ I'm a fun-loving, easy-going, and whip-smart developer who loves collaborating w
 <details>
   <summary>Github Stats ⚡</summary>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&locale=en" alt="kolynzb" /></p>
+| ![Kolynzb github stats](https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&theme=github_dark)              | ![Kolynzb GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kolynzb&theme=github_dark)                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolynzb&langs_count=8&theme=github_dark&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=kolynzb&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=github_dark) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kolynzb&theme=github_dark)                | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kolynzb&theme=github_dark)                                                                                          |
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kolynzb&theme=github_dark)
+
 </details>
 
 <details>
